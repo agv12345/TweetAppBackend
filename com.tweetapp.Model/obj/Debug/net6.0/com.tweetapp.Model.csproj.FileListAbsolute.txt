@@ -1,0 +1,56 @@
+D:\TweetApp\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.deps.json
+D:\TweetApp\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.runtimeconfig.json
+D:\TweetApp\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.dll
+D:\TweetApp\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.pdb
+D:\TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.csproj.AssemblyReference.cache
+D:\TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.AssemblyInfoInputs.cache
+D:\TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.AssemblyInfo.cs
+D:\TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.csproj.CoreCompileInputs.cache
+D:\TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.dll
+D:\TweetApp\com.tweetapp.Model\obj\Debug\net6.0\refint\com.tweetapp.Model.dll
+D:\TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.pdb
+D:\TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.genruntimeconfig.cache
+D:\TweetApp\com.tweetapp.Model\obj\Debug\net6.0\ref\com.tweetapp.Model.dll
+E:\cogni\projects\FSE1 react\Aug 12-TweetApp\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.deps.json
+E:\cogni\projects\FSE1 react\Aug 12-TweetApp\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.runtimeconfig.json
+E:\cogni\projects\FSE1 react\Aug 12-TweetApp\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.dll
+E:\cogni\projects\FSE1 react\Aug 12-TweetApp\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.pdb
+E:\cogni\projects\FSE1 react\Aug 12-TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.csproj.AssemblyReference.cache
+E:\cogni\projects\FSE1 react\Aug 12-TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\cogni\projects\FSE1 react\Aug 12-TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.AssemblyInfoInputs.cache
+E:\cogni\projects\FSE1 react\Aug 12-TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.AssemblyInfo.cs
+E:\cogni\projects\FSE1 react\Aug 12-TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.csproj.CoreCompileInputs.cache
+E:\cogni\projects\FSE1 react\Aug 12-TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.dll
+E:\cogni\projects\FSE1 react\Aug 12-TweetApp\com.tweetapp.Model\obj\Debug\net6.0\refint\com.tweetapp.Model.dll
+E:\cogni\projects\FSE1 react\Aug 12-TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.pdb
+E:\cogni\projects\FSE1 react\Aug 12-TweetApp\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.genruntimeconfig.cache
+E:\cogni\projects\FSE1 react\Aug 12-TweetApp\com.tweetapp.Model\obj\Debug\net6.0\ref\com.tweetapp.Model.dll
+F:\F drive\Comp2\TweetApp- Comp 2\Gurjeet Singh Bhatia(899137) TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.deps.json
+F:\F drive\Comp2\TweetApp- Comp 2\Gurjeet Singh Bhatia(899137) TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.runtimeconfig.json
+F:\F drive\Comp2\TweetApp- Comp 2\Gurjeet Singh Bhatia(899137) TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.dll
+F:\F drive\Comp2\TweetApp- Comp 2\Gurjeet Singh Bhatia(899137) TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.pdb
+F:\F drive\Comp2\TweetApp- Comp 2\Gurjeet Singh Bhatia(899137) TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.csproj.AssemblyReference.cache
+F:\F drive\Comp2\TweetApp- Comp 2\Gurjeet Singh Bhatia(899137) TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\F drive\Comp2\TweetApp- Comp 2\Gurjeet Singh Bhatia(899137) TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.AssemblyInfoInputs.cache
+F:\F drive\Comp2\TweetApp- Comp 2\Gurjeet Singh Bhatia(899137) TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.AssemblyInfo.cs
+F:\F drive\Comp2\TweetApp- Comp 2\Gurjeet Singh Bhatia(899137) TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.csproj.CoreCompileInputs.cache
+F:\F drive\Comp2\TweetApp- Comp 2\Gurjeet Singh Bhatia(899137) TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.dll
+F:\F drive\Comp2\TweetApp- Comp 2\Gurjeet Singh Bhatia(899137) TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\refint\com.tweetapp.Model.dll
+F:\F drive\Comp2\TweetApp- Comp 2\Gurjeet Singh Bhatia(899137) TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.pdb
+F:\F drive\Comp2\TweetApp- Comp 2\Gurjeet Singh Bhatia(899137) TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.genruntimeconfig.cache
+F:\F drive\Comp2\TweetApp- Comp 2\Gurjeet Singh Bhatia(899137) TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\ref\com.tweetapp.Model.dll
+F:\F drive\Comp2\TweetApp- Comp 2\TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.deps.json
+F:\F drive\Comp2\TweetApp- Comp 2\TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.runtimeconfig.json
+F:\F drive\Comp2\TweetApp- Comp 2\TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.dll
+F:\F drive\Comp2\TweetApp- Comp 2\TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\bin\Debug\net6.0\com.tweetapp.Model.pdb
+F:\F drive\Comp2\TweetApp- Comp 2\TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.csproj.AssemblyReference.cache
+F:\F drive\Comp2\TweetApp- Comp 2\TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\F drive\Comp2\TweetApp- Comp 2\TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.AssemblyInfoInputs.cache
+F:\F drive\Comp2\TweetApp- Comp 2\TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.AssemblyInfo.cs
+F:\F drive\Comp2\TweetApp- Comp 2\TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.csproj.CoreCompileInputs.cache
+F:\F drive\Comp2\TweetApp- Comp 2\TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.dll
+F:\F drive\Comp2\TweetApp- Comp 2\TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\refint\com.tweetapp.Model.dll
+F:\F drive\Comp2\TweetApp- Comp 2\TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.pdb
+F:\F drive\Comp2\TweetApp- Comp 2\TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\com.tweetapp.Model.genruntimeconfig.cache
+F:\F drive\Comp2\TweetApp- Comp 2\TweetApp- Comp 2\TweetApp- Comp 2\com.tweetapp.Model\obj\Debug\net6.0\ref\com.tweetapp.Model.dll
