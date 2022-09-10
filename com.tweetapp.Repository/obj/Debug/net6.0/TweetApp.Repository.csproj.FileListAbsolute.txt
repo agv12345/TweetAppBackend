@@ -1,0 +1,16 @@
+D:\TweetApp\TweetApp.Repository\bin\Debug\net6.0\TweetApp.Repository.deps.json
+D:\TweetApp\TweetApp.Repository\bin\Debug\net6.0\TweetApp.Repository.dll
+D:\TweetApp\TweetApp.Repository\bin\Debug\net6.0\TweetApp.Repository.pdb
+D:\TweetApp\TweetApp.Repository\bin\Debug\net6.0\TweetApp.Repository.xml
+D:\TweetApp\TweetApp.Repository\bin\Debug\net6.0\TweetApp.Model.dll
+D:\TweetApp\TweetApp.Repository\bin\Debug\net6.0\TweetApp.Model.pdb
+D:\TweetApp\TweetApp.Repository\obj\Debug\net6.0\TweetApp.Repository.csproj.AssemblyReference.cache
+D:\TweetApp\TweetApp.Repository\obj\Debug\net6.0\TweetApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\TweetApp\TweetApp.Repository\obj\Debug\net6.0\TweetApp.Repository.AssemblyInfoInputs.cache
+D:\TweetApp\TweetApp.Repository\obj\Debug\net6.0\TweetApp.Repository.AssemblyInfo.cs
+D:\TweetApp\TweetApp.Repository\obj\Debug\net6.0\TweetApp.Repository.csproj.CoreCompileInputs.cache
+D:\TweetApp\TweetApp.Repository\obj\Debug\net6.0\TweetApp.Repository.csproj.CopyComplete
+D:\TweetApp\TweetApp.Repository\obj\Debug\net6.0\TweetApp.Repository.dll
+D:\TweetApp\TweetApp.Repository\obj\Debug\net6.0\refint\TweetApp.Repository.dll
+D:\TweetApp\TweetApp.Repository\obj\Debug\net6.0\TweetApp.Repository.pdb
+D:\TweetApp\TweetApp.Repository\obj\Debug\net6.0\ref\TweetApp.Repository.dll
