@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "com.tweet.app": {
+      "commandName": "Project"
+    }
+  }
+}
